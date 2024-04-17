@@ -1,0 +1,1 @@
+This Power BI project provides a comprehensive analysis of e-commerce sales data, aiming to offer valuable insights into sales performance, customer behavior, product trends, and more. The dashboard is designed to assist e-commerce businesses in making data-driven decisions to optimize sales strategies and enhance overall performance.
